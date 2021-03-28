@@ -38,7 +38,6 @@ __Authors:__
 ├── module_generate_dataset.py           # module for generating datasets that can be used for the model
 ├── module_lags.py                       # module for calculating lagged features
 ├── module_lightgbm.py                   # module for training the LightBGM model
-├── module_merge_datasets.py             # module for merging all dataframes to one
 ├── module_negatives.py                  # module for calculating negative samples
 ├── module_p2v.py                        # module for training a gensim P2V model
 ├── module_train_test_splitting.py       # module for creating a train-test-split
