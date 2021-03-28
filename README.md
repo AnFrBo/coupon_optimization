@@ -13,21 +13,21 @@ We chose two recent and most widely used tree-based models, XGBoost and LightGBM
 ## Organization
 
 __Institute:__ Humboldt University Berlin, Institute of Marketing <br>
-__Course:__ Machine Learning in Marketing
+__Course:__ Machine Learning in Marketing <br>
 __Semester:__ WS 2020/21 <br>
 __Authors:__ 
- - Sophie Bonczyk (561846)
- - Anna Franziska Bothe (576309)
- - Christopher Gerling (598370)
- - Asmir Muminovic (600582)
- - Arash Moussavi Tasouj (600651)
+ - Sophie Bonczyk
+ - Anna Franziska Bothe 
+ - Christopher Gerling 
+ - Asmir Muminovic 
+ - Arash Moussavi Tasouj
  
 ## Content
 
 ```
 .
 ├── MLiM___Coupon_Optimization.pdf       # PDF of final assignment
-├── Data                                 # folder contains data sets
+├── data                                 # folder contains data sets
 ├── final_notebook.jpynb                 # jupyter notebook with coding pipeline
 ├── coupon_index.parquet                 # final predictions for coupon assignments
 ├── README.md                            # this readme file
