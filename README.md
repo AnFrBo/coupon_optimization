@@ -10,6 +10,8 @@ Our project tackles this challenge and aims to predict individualised coupons by
   
 We chose two recent and most widely used tree-based models, XGBoost and LightGBM, and one heuristic model. Among these, our final model for purchase predictions is LightGBM because it outperforms the other models. 
 
+Note: If you are interested in the data sets, please send a request to sebastian.gabel@hu-berlin.de
+
 ## Organization
 
 __Institute:__ Humboldt University Berlin, Institute of Marketing <br>
@@ -27,7 +29,6 @@ __Authors:__
 ```
 .
 ├── MLiM___Coupon_Optimization.pdf       # PDF of final assignment
-├── data                                 # folder contains data sets
 ├── final_notebook.jpynb                 # jupyter notebook with coding pipeline
 ├── coupon_index.parquet                 # final predictions for coupon assignments
 ├── README.md                            # this readme file
